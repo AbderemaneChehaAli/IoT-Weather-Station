@@ -1,4 +1,6 @@
-IoT Weather Station
+# IoT Weather Station
+
+![IoT Weather Station](weather-station.jpg)
 
 A compact IoT weather station built around an ESP32, a DHT22 temperature and humidity sensor, and an integrated OLED display.
 
